@@ -1,6 +1,6 @@
 <h1> Listado Cliente </h1>
 
-<table>
+<table border="1">
     <tr>
         <th>nombre</th>
         <th>documento</th>

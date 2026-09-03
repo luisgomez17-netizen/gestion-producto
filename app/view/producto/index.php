@@ -1,6 +1,6 @@
 <h1> Listado Producto </h1>
 
-<table>
+<table border="1">
     <tr>
         <th>nombre</th>
         <th>precio</th>
@@ -14,5 +14,5 @@
             </tr>
         <?php endforeach; ?>
 
-        
+
 </table>
